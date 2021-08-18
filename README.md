@@ -21,7 +21,6 @@
   <img align="center" height="30" width="40" src='https://icongr.am/devicon/php-original.svg?size=128&color=currentColor'>
   <img align="center" height="30" width="40" src='https://icongr.am/devicon/wordpress-original.svg?size=128&color=currentColor'>
   <img align="center" height="30" width="40" src='https://icongr.am/simple/flutter.svg?size=111&color=5065ce&colored=false'>
-   <img align="right" alt="black-pink" src="https://media.giphy.com/media/gFhY6Nmsf8oWyewGww/giphy.gif">
 </div>
 ##
   
@@ -29,5 +28,6 @@
   <a href="https://www.instagram.com/renald_william" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:renald_w@hotmail.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renald-william-faustino-81a4241a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  ![Snake animation](https://github.com/Renaldwilliam/renaldwilliam/blob/output/github-contribution-grid-snake.svg)
+  
   </div>
+ ![Snake animation](https://github.com/Renaldwilliam/renaldwilliam/blob/output/github-contribution-grid-snake.svg)
