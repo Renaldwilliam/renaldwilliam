@@ -28,6 +28,6 @@
   <a href="https://www.instagram.com/renald_william" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:renald_w@hotmail.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renald-william-faustino-81a4241a6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  </div>
+</div>
+ 
 ![Snake animation](https://github.com/Renaldwilliam/renaldwilliam/blob/output/github-contribution-grid-snake.svg)
