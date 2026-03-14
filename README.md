@@ -37,17 +37,6 @@ Atuo com **Flutter** (mobile multiplataforma), **WordPress**, **PHP** e **JavaSc
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renaldwilliam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renaldwilliam&layout=compact&langs_count=8&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renaldwilliam&theme=tokyonight" alt="Streak" />
-</p>
-
----
-
 ## 🔗 Contato & Redes
 
 <p align="left">
